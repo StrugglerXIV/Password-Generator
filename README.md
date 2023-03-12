@@ -39,7 +39,7 @@ To open the page, simply click on the following link: "https://strugglerxiv.gith
 
 This a screenshot showcasing the live deployed webpage on github:
 
-![Challenge-2-Screenshot](./assets/snapshot.png)
+![Password-generator-Screenshot](./assets/snapshot.PNG)
 
 
 ## Credits
