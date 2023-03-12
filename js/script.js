@@ -53,6 +53,23 @@ function passwordQuery() {
         scPassword.push(scArrayChars[scArrayPassword]);
       }
     }
+    //Validating input by creating an array that gets pushed to only the values that are True
+    var truePromts = [];
+    if (lcPromt === true) {
+      truePromts.push("Lowercase")
+    };
+    if (ucPromt === true) {
+      truePromts.push("Uppercase")
+    };
+    if (nrPromt === true) {
+      truePromts.push("Numbers")
+    };
+    if (scPromt === true) {
+      truePromts.push("Special Characters")
+    };
+    
+    //var stringTruePromts = String[truePromts]
+    alert("You have chosen to create a password with: " + [truePromts]);
     //We join all the randomly generated arrays into a big one and filter off the undefined values.
     var poolPass = [];
     var mixedPass = poolPass.concat(lcPassword, ucPassword, nrPassword, scPassword)
