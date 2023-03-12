@@ -30,6 +30,10 @@ In this challenge we were supposed to create a password generator that met the c
 <li>THEN the password is either displayed in an alert or written to the page</li>
 </ul>
 
+##Extra/Bonus
+
+Added functionality that when you click the password area, it will automatically copy to clipboard.
+
 # Struggler's Portfolio Challenge
 
 
