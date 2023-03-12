@@ -1,4 +1,8 @@
-# User Story
+# Description
+
+In this challenge we were supposed to create a password generator that met the criteria below:
+
+## User Story
 
 <ul>
 <li>AS AN employee with access to sensitive data</li>
@@ -6,7 +10,7 @@
 <li>SO THAT I can create a strong password that provides greater security</li>
 </ul>
 
-# Acceptance Criteria
+## Acceptance Criteria
 
 <ul>
 <li>GIVEN I need a new, secure password</li>
@@ -25,3 +29,27 @@
 <li>WHEN the password is generated</li>
 <li>THEN the password is either displayed in an alert or written to the page</li>
 </ul>
+
+# Struggler's Portfolio Challenge
+
+
+## Usage
+
+To open the page, simply click on the following link: "https://strugglerxiv.github.io/Password-Generator/"
+
+This a screenshot showcasing the live deployed webpage on github:
+
+![Challenge-2-Screenshot](./assets/snapshot.png)
+
+
+## Credits
+
+-The amazing teaching staff at the UCF coding bootcamp.
+
+## License
+
+MIT License
+
+## Features
+
+Full accessiblity for all images used on the webpage.
